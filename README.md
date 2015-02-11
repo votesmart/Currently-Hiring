@@ -15,4 +15,4 @@
 - Willingness to perform general IT support
 - Experience in the realm of FOSS
 
-#### Leave your contact info with a short message in the issue tracker if you're interested and we'll promptly respond!
+#### If you're interested, please leave your contact info in the issue tracker with a short message.
